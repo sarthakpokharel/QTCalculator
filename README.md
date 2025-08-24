@@ -36,8 +36,6 @@ Decimal/floating point support
 
 Prettier UI
 
-Memory buttons (M+, M-, MR, etc.)
-
 <h2>Why I Built This</h2>
 
 I’ve been doing a lot of web development (Spring Boot, Angular, Python), but I’m learning Qt/C++ because I want to get into desktop and embedded systems.
